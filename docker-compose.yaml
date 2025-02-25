@@ -1,6 +1,0 @@
-#This is a configuration file use to run the services through indentations.
-services:
-  #mysql and emp-service are the direct child of the services.
-  mysql: "mysql" ## the type of the service and the name of the service is in quoates.
-
-  emp-service: "employee-service"

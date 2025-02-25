@@ -1,0 +1,7 @@
+services:
+  app:
+    image: "employee-docker"
+  mysql:
+    image: "mysql"
+  emp-service:
+    image: "employee-service"
